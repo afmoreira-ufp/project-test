@@ -420,9 +420,9 @@ public class MainTest {
     public static void main(String[] args) {
 
         int port=8080;
-        if(args.length==0){
-            System.out.println("You should choose between PT or EN version");
-            return;
+        boolean isPT=true;
+        if(args.length==1){
+            isPT=args[0].equalsIgnoreCase("pt");
         }
 
         if(args.length>1){
@@ -433,7 +433,7 @@ public class MainTest {
             }
         }
 
-        boolean isPT=args[0].equalsIgnoreCase("pt");
+
         if(isPT){
             isPT(port);
         }else{

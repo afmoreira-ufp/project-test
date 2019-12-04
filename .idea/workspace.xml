@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39495f34-cc87-4905-aab5-57ac965d874f" name="Default Changelist" comment="" />
+    <list default="true" id="39495f34-cc87-4905-aab5-57ac965d874f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/ufp/afmiguez/tk/esof/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/ufp/afmiguez/tk/esof/MainTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1URUf8NgdrmAwUIkHrPewzHhzag" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,7 +29,7 @@
     <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.ufp.afmiguez.tk.esof.MainTest" />
       <module name="esof-test" />
-      <option name="PROGRAM_PARAMETERS" value="pt 8089" />
+      <option name="PROGRAM_PARAMETERS" value="EN" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="edu.ufp.afmiguez.tk.esof.*" />
@@ -58,7 +65,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575319001975</updated>
-      <workItem from="1575319005892" duration="820000" />
+      <workItem from="1575319005892" duration="1675000" />
+      <workItem from="1575466726613" duration="125000" />
     </task>
     <servers />
   </component>
@@ -70,29 +78,29 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="656" y="192" width="597" height="648" key="#MainTest/0.0.1920.1040@0.0.1920.1040" timestamp="1575319467298" />
-    <state x="418" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575319823159">
+    <state x="418" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575466851115">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="418" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575319823159" />
+    <state x="418" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575466851115" />
     <state x="743" y="277" width="424" height="479" key="FileChooserDialogImpl" timestamp="1575319188473">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="743" y="277" width="424" height="479" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1575319188473" />
-    <state width="1878" height="276" key="GridCell.Tab.0.bottom" timestamp="1575319827257">
+    <state width="1878" height="276" key="GridCell.Tab.0.bottom" timestamp="1575466856858">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1878" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1575319827257" />
-    <state width="1878" height="276" key="GridCell.Tab.0.center" timestamp="1575319827257">
+    <state width="1878" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1575466856858" />
+    <state width="1878" height="276" key="GridCell.Tab.0.center" timestamp="1575466856857">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1878" height="276" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1575319827257" />
-    <state width="1878" height="276" key="GridCell.Tab.0.left" timestamp="1575319827257">
+    <state width="1878" height="276" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1575466856857" />
+    <state width="1878" height="276" key="GridCell.Tab.0.left" timestamp="1575466856857">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1878" height="276" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1575319827257" />
-    <state width="1878" height="276" key="GridCell.Tab.0.right" timestamp="1575319827257">
+    <state width="1878" height="276" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1575466856857" />
+    <state width="1878" height="276" key="GridCell.Tab.0.right" timestamp="1575466856857">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1878" height="276" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1575319827257" />
+    <state width="1878" height="276" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1575466856857" />
   </component>
 </project>
