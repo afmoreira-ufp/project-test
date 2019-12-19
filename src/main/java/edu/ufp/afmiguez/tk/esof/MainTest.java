@@ -422,15 +422,15 @@ public class MainTest {
         int port=8080;
         boolean isPT=true;
         if(args.length==1){
-            isPT=args[0].equalsIgnoreCase("pt");
+            try{
+                port=Integer.parseInt(args[0]);
+            }catch (NumberFormatException nfe) {
+                nfe.printStackTrace();
+            }
         }
 
         if(args.length>1){
-            try{
-                port=Integer.parseInt(args[1]);
-            }catch (NumberFormatException nfe){
-                nfe.printStackTrace();
-            }
+            isPT=args[1].equalsIgnoreCase("pt");
         }
 
 
